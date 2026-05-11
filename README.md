@@ -14,6 +14,14 @@ All features are unified within a custom Tkinter graphical interface, delivering
 - **Hands-Free Voice Commands**: Features a robust command listener utilizing `SpeechRecognition` and `sounddevice` to allow users to interact with the assistant entirely through voice.
 - **Session Logging**: Tracks and logs session data, detections, and alerts in an on-screen console and background log.
 
+## Literature Survey
+
+**Paper 1:** Redmon, J., & Farhadi, A. (2018). YOLOv3: An Incremental Improvement. 
+- Real-time object detection with YOLO architecture
+
+**Paper 2:** Ranftl, R., et al. (2020). MiDaS: Towards Robust Monocular Depth Estimation.
+- Depth estimation for distance measurement
+
 ## ⚙️ Setup Instructions
 
 ### Prerequisites
